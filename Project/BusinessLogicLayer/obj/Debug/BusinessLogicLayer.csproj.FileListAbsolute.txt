@@ -1,0 +1,22 @@
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

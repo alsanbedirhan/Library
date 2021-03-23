@@ -1,0 +1,18 @@
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\FacadeLayer\obj\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\FacadeLayer\obj\Debug\FacadeLayer.pdb

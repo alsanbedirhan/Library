@@ -1,0 +1,74 @@
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\pro.exe
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.Kitap.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.Main.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.Ogrenci.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.exe
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\pro.exe.config
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\pro.pdb
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\ZedGraph.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\ZedGraph.xml
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.KitapSorgula.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.OgrenciSorgula.resources
+C:\Users\bedir\Desktop\GorselProje\pro\pro\obj\Debug\pro.Login.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\pro.exe.config
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\pro.exe
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\pro.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\BusinessLogicLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\EntityLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\ZedGraph.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\FacadeLayer.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\EntityLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\ZedGraph.xml
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\FacadeLayer.pdb
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.csprojAssemblyReference.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.Kitap.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.KitapSorgula.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.Login.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.Main.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.Ogrenci.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.OgrenciSorgula.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.csproj.CopyComplete
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.exe
+C:\Users\bedir\Desktop\GorselProje\Visual Studio Dosyası\pro\obj\Debug\pro.pdb
