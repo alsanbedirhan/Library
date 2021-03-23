@@ -1,2 +1,2 @@
 # Kutuphane
- Access veritabanlı kütüphane otomasyonu
+ c# ile yazılmış access veritabanlı kütüphane otomasyonu
